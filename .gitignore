@@ -1,0 +1,4 @@
+ignored
+.bash*
+.viminfo
+.ssh
