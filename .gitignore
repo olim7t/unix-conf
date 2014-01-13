@@ -1,4 +1,9 @@
 ignored
-.bash*
+.bashrc_ignored
+
+.bash_history
+.bash_logout
+.bash_profile
+
 .viminfo
 .ssh
