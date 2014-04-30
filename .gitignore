@@ -1,9 +1,15 @@
-ignored
-.bashrc_ignored
+/ignored
+/.bashrc_ignored
 
-.bash_history
-.bash_logout
-.bash_profile
+/.bash_history
+/.bash_logout
+/.bash_profile
 
-.viminfo
-.ssh
+/.vim
+/.viminfo
+
+/.ssh
+
+/.gnupg
+
+/.lesshst
